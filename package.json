@@ -1,0 +1,20 @@
+{
+  "name": "arj-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "arj-cli-tool": "index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "inquirer": "8.2.5",
+    "yargs": "^17.7.2"
+  }
+}
